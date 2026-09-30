@@ -17,4 +17,5 @@
 
 ## 部署
 
-`npm run deploy`（Cloudflare Workers 静态资源，需先 `npx wrangler login`）。
+`npm run deploy`：生成站点并推送到 `gh-pages` 分支，由 GitHub Pages 发布到
+https://lebuju179-wq.github.io/phone-installment-guide/
