@@ -1,0 +1,13 @@
+{
+  "name": "phone-installment-guide",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/build.js --check",
+    "build": "node scripts/build.js",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "marked": "^15.0.0"
+  }
+}
