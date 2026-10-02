@@ -22,7 +22,7 @@
 
 ## 征信与还款
 
-- [手机分期需要什么条件？2026年申请材料与审核要点](credit-and-repayment/installment-requirements.md) — 2026-10-02 · 手机分期 / 分期条件 / 征信
+- [手机分期需要什么条件？2026年申请材料与审核要点](credit-and-repayment/手机分期需要什么条件-2026申请材料与审核要点.md) — 2026-10-02 · 手机分期 / 分期条件 / 征信
 - [分期买手机会影响征信吗？以后还能办房贷车贷吗](credit-and-repayment/credit-report-impact.md) — 2026-09-22 · 征信 / 房贷 / 负债
 - [手机分期申请被拒的常见原因和正确应对](credit-and-repayment/application-rejected.md) — 2026-09-21 · 审批 / 被拒 / 征信
 - [手机分期逾期了怎么办？越早处理损失越小](credit-and-repayment/overdue-what-to-do.md) — 2026-09-20 · 逾期 / 征信 / 协商还款
